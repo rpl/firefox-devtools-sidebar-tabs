@@ -1,0 +1,11 @@
+{
+  "name": "firefox-devtools-sidebar-tabs",
+  "version": "0.1.0",
+  "description": "Firefox Devtools Sidebar Custom Tabs - JPM helper module prototype",
+  "main": "index.js",
+  "author": "Luca Greco",
+  "engines": {
+    "firefox": ">=33.0a1"
+  },
+  "license": "MPL 2.0"
+}
